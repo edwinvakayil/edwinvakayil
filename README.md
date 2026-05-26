@@ -2,10 +2,9 @@
 
 <p>
   <samp>
-    🌿 Full Stack Engineer ~ Schneider Electric
+    🌿 Full Stack Engineer at <a href = "https://www.se.com">Schneider Electric</a> <br>
+   Building <a href = "https://www.iconiq.com">Iconiq UI</a> after hours — motion-first UI for teams that care about details.
     <br>
     <br>
-    <a href = "https://www.edwinvakayil.info">PORTFOLIO</a> .
-    <a href = "https://www.linkedin.com/in/edwinvs/">LINKEDIN</a> 
   </samp>
 </p><br>
